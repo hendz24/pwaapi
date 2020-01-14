@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Macaw, blue and gold","category":"Aquamarine"},
+{"id":2,"name":"Warthog","category":"Goldenrod"},
+{"id":3,"name":"European badger","category":"Goldenrod"},
+{"id":4,"name":"Rufous-collared sparrow","category":"Indigo"},
+{"id":5,"name":"Iguana, land","category":"Maroon"},
+{"id":6,"name":"Caiman, spectacled","category":"Goldenrod"},
+{"id":7,"name":"Tortoise, radiated","category":"Crimson"},
+{"id":8,"name":"Antelope, four-horned","category":"Pink"},
+{"id":9,"name":"White-mantled colobus","category":"Violet"},
+{"id":10,"name":"Plover, three-banded","category":"Violet"},
+{"id":11,"name":"Ground monitor (unidentified)","category":"Violet"},
+{"id":12,"name":"Manatee","category":"Teal"},
+{"id":13,"name":"Kalahari scrub robin","category":"Indigo"},
+{"id":14,"name":"Blue-tongued lizard","category":"Crimson"},
+{"id":15,"name":"Parrot, hawk-headed","category":"Yellow"},
+{"id":16,"name":"Ringtail cat","category":"Goldenrod"},
+{"id":17,"name":"Burmese black mountain tortoise","category":"Purple"},
+{"id":18,"name":"Stanley crane","category":"Red"},
+{"id":19,"name":"Paca","category":"Blue"},
+{"id":20,"name":"South American meadowlark (unidentified)","category":"Maroon"}
+]
+}
